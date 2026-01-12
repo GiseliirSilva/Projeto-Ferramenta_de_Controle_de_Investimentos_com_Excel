@@ -1,21 +1,41 @@
-## 📊 Projeto – Excel com Inteligência Artificial (Santander)
+# 📊 Projeto: Ferramenta de Controle de Investimentos com Excel
 
-Projeto desenvolvido no bootcamp Santander, com foco na aplicação de recursos do Excel aliados a conceitos de Inteligência Artificial para apoio à organização, análise e tomada de decisão baseada em dados.
+Este projeto foi desenvolvido para demonstrar o uso prático de **Microsoft Excel** como ferramenta de apoio à organização e análise de dados, com foco em **controle de informações e apoio à tomada de decisões**.
 
-### 🔹 Objetivo
-Demonstrar o uso do Excel como ferramenta estratégica para:
-- organização de dados
-- análise de informações
-- apoio a controles administrativos e financeiros
-
-### 🔹 Competências aplicadas
-- Excel aplicado à análise de dados
-- Organização e estruturação de informações
-- Raciocínio lógico e interpretação de dados
-- Uso de tecnologia como apoio à eficiência operacional
-
-### 🔹 Contexto
-Projeto educacional desenvolvido como parte de formação prática, reforçando habilidades analíticas e administrativas com uso de ferramentas tecnológicas.
+O projeto faz parte de um treinamento prático e apresenta funcionalidades que facilitam o acompanhamento de investimentos e movimentações financeiras em planilhas bem estruturadas.
 
 ---
-📌 *Projeto com finalidade educacional.*
+
+## 🔎 Objetivos
+
+- Demonstrar organização de dados de forma clara e eficiente  
+- Estruturar informações financeiras em planilhas  
+- Aplicar lógica de controle e acompanhamento de dados  
+- Utilizar fórmulas e funções do Excel para facilitar análises
+
+---
+
+## 📌 Competências aplicadas
+
+✅ Organização e estruturação de dados em planilhas  
+✅ Uso de funções e fórmulas no Excel  
+✅ Atualização e conferência de informações  
+✅ Controle de dados financeiros (cenário de investimento)
+  
+---
+
+## 📂 O que este projeto mostra
+
+- Capacidade de criar ferramentas de controle no Excel  
+- Visão analítica para organização de dados  
+- Facilidade em aplicar lógica para acompanhamento de informações
+
+---
+
+## 🤝 Sobre a autora
+
+Sou profissional da área administrativa com experiência em organização de dados, rotinas administrativas e suporte operacional. Utilizo ferramentas como Excel e bases de dados para estruturar e organizar informações com o objetivo de apoiar processos e análises.
+
+---
+
+✨ Este projeto tem finalidade **educacional e de desenvolvimento profissional**.
